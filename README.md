@@ -1,7 +1,7 @@
 # data_analytics_projects
 
 ## Introduction
-The project goal is to develop methodologies to identify companies worth considering distribution of billions of EU subsidies. 
+The project goal is to develop methodologies to identify companies worth considering distribution of billions of government subsidies. 
 The code showed the process of data cleaning, grouping, creating new variables as company's key performance indicators, and clustering. 
 
 ## Acknowlegement
